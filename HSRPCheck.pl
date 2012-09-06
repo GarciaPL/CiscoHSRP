@@ -3,8 +3,8 @@
 # Info : Check Cisco 2800 Series HSRP Status
 # Version : 1.0
 # Date : 11 lipca 2012
-# Author  : £ukasz Cieœluk
-# Help : Lukasz.Ciesluk@gmail.com
+# Author  : Lukasz Ciesluk
+# Help : LukaszCiesluk@gmail.com
 ######################################
 #
 # Run :
