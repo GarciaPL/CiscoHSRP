@@ -4,7 +4,7 @@
 # Version : 1.0
 # Date : 11 lipca 2012
 # Author  : Lukasz Ciesluk
-# Help : LukaszCiesluk@gmail.com
+# Help : lukaszciesluk@gmail.com
 ######################################
 #
 # Run :
